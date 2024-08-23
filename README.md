@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://skids.rip/discord" target="_blank">✨ Join our Discord for support and contact! (Click here!) ✨</a>
+  <a href="https://discord.gg/crealgrabber" target="_blank">✨ Join our Discord for support and contact! (Click here!) ✨</a>
 </p>
 
 ---
