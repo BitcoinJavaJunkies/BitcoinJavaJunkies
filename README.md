@@ -1,6 +1,6 @@
 
 
-<h1 align="center">✨ Creal Stealer ✨</h1>
+<h1 align="center">✨ Creal Stealer V2 ✨</h1>
 
 <p align="center">
   <kbd>
