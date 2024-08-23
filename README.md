@@ -6,7 +6,7 @@
   <kbd>
     <img src="https://i.imgur.com/MjoICHp.png" width="420">
   </kbd>
-</p>
+</p> 
 
 <p align="center">
   <a href="https://discord.gg/crealgrabber" target="_blank">✨ Join our Discord for support and contact! (Click here!) ✨</a>
